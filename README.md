@@ -37,6 +37,6 @@ I love contributing to open source projects. Here are a few repositories I've co
 <!-- [Twitter](your-twitter-profile) -->
 - [Personal Website](your-website)
 
-Thanks for visiting my profile! Feel free to reach out or just want to connect, hope you're inspired.
+Thanks for visiting my profile! Feel free to reach out or just to connect, hope you're inspired.
 
 <!-- -->

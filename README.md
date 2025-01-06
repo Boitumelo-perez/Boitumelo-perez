@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 ## About Me
 
-- I'm currently in a FullStack System Dev Learnership @Geeks4Learning.
+- ⌨ I'm currently in a FullStack System Dev Learnership @Geeks4Learning.
 - 🌱 I’m currently learning about Cloud Computing.
-- BSc Computer Science graduate, Univen Alumni.
+- 🎓 BSc Computer Science graduate, Univen Alumni.
 - 👯 I’m interested in collaborating on projects of familiar frameworks or any if preferable hmu.
 - 📫 How to reach me: perez_st@icloud.com or send a Whatsapp on +27694369805.
 

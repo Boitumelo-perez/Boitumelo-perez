@@ -82,7 +82,7 @@ I love contributing to open source projects. Here are a few repositories I've co
 
 ## GitHub Stats
 
-# GitHub Stats
+# GitHub Statistis
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boitumelo-perez&show_icons=true&theme=radical)
 

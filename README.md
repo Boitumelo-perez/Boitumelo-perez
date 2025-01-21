@@ -37,11 +37,11 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 - **Frameworks**:
  <!-- Angular & Spring. -->  
- <p align="center">
+ <p align="left">
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
  </p>
- <p align="center">
+ <p align="left">
   <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>

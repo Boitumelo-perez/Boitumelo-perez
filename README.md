@@ -81,6 +81,14 @@ I love contributing to open source projects. Here are a few repositories I've co
 -->
 
 ## GitHub Stats
+
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boitumelo-perez&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical)
+
+
 <!-- <p align="center">
  <a href="https://github.com/Boitumelo-perez">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>

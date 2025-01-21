@@ -82,9 +82,9 @@ I love contributing to open source projects. Here are a few repositories I've co
 
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/Boitumelo-perez">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>
-  </a>
+ <a href="https://github.com/Boitumelo-perez">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>
+ </a>
 </p>
 
 <p align="center">

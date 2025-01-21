@@ -40,6 +40,81 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 - **Tools**: Git, Docker, Kubernetes, Swagger.
 - **Databases**: MySQL, PostgreSQL, MongoDB, etc.
 
+<div>
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img align="left" alt="Java" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+
+    <img align="left" alt="C++" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
+  </div>
+
+  <!-- Frameworks -->
+  <h3>Frameworks</h3>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img align="left" alt="Angular" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" />
+
+    <img align="left" alt="Spring" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
+  </div>
+
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+
+    <img align="left" alt="Docker" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+
+    <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+
+    <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger Badge" />
+  </div>
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+
+    <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+
+    <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+  </div>
+</div>
+
+
 ## Projects
 <!--
 Here are a few projects I've worked on:

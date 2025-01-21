@@ -82,10 +82,14 @@ I love contributing to open source projects. Here are a few repositories I've co
 
 # GitHub Statistis
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical)
+
 <a href="https://github.com/Boitumelo-perez">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boitumelo-perez&theme=radical"/>
   </a>
+ <a href="https://github.com/Boitumelo-perez">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical" alt="Top Languages" />
+</a>
+
 </p>
 
 <!-- <p align="center">
@@ -93,6 +97,8 @@ I love contributing to open source projects. Here are a few repositories I've co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>
  </a>
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://github.com/Boitumelo-perez">

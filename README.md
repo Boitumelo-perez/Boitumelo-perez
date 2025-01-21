@@ -79,6 +79,21 @@ I love contributing to open source projects. Here are a few repositories I've co
 - **[Repository Name](link-to-repository)**: [brief description of your contributions].
 - **[Repository Name](link-to-repository)**: [brief description of your contributions].
 -->
+
+## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/PhodzoW0l7">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Boitumelo-perez">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhodzoW0l7&theme=radical"/>
+  </a>
+</p>
+
+
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/boitumelo-sinwamadi-4546a6285)

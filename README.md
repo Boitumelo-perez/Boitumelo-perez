@@ -81,7 +81,7 @@ I love contributing to open source projects. Here are a few repositories I've co
 -->
 
 ## GitHub Stats
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/Boitumelo-perez">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boitumelo-perez&theme=react&border=7F3FBF&background=0D1117"/>
  </a>
@@ -91,8 +91,8 @@ I love contributing to open source projects. Here are a few repositories I've co
   <a href="https://github.com/Boitumelo-perez">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhodzoW0l7&theme=radical"/>
   </a>
-</p>
-
+</p>  -->
+ 
 
 ## Connect with Me
 

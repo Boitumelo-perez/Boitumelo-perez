@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 # Skills and Technologies
 
 ## Languages
+- <img align="left" alt="Java" width="30px" style="padding-right:10px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" style="vertical-align:middle; margin-right:5px;"> 
   ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" style="vertical-align:middle; margin-right:5px;"> 

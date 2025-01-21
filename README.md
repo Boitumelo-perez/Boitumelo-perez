@@ -2,6 +2,19 @@
 
 Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring ideals out of the box and into the real world by developing systems.
 
+<p align="center">
+ <a href="https://linkedin.com/in/boitumelo-sinwamadi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://github.com/Boitumelo-perez" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Phodzo GitHub" />
+ </a>
+  <a href="https://boitumelo-perez.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen" alt="Portfolio Badge">
+</a>
+
+</p>
+
 ## About Me
 
 - ⌨ I'm currently in a FullStack System Dev Learnership @Geeks4Learning.

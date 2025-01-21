@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Phodzo GitHub" />
  </a>
   <a href="https://boitumelo-perez.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen" alt="Portfolio Badge">
+  <img src="https://img.shields.io/badge/" alt="Portfolio Badge">
 </a>
 
 </p>

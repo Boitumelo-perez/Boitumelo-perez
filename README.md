@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 ## About Me
 
-- ⌨ I'm currently looking for work opprtunities within the fields of Computer Science, with most prefrences for Software Developer.
+- ⌨ I'm currently looking for work opprtunities within the fields of Computer Science, with more prefrences for Software Developer.
 - 🌱 I’m currently learning about Cloud Computing.
 - 🎓 BSc Computer Science graduate, Univen Alumni.
 - 👯 I’m interested in collaborating on projects of familiar frameworks or any if preferable hmu.

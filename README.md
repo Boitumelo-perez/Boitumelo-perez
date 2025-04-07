@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 ## Profile
 - Enthusiastic and results-driven Full-Stack Developer with 1 year of professional experience designing, developing, and deploying web applications.
-- Proficient in Java, C++, JavaScript, HTML, CSS, SQL, and frameworks like Angular and Spring.
+- Proficient in Java, C++, JavaScript, HTML, CSS, SQL, and frameworks like Angular, Spring and Django.
 - Well versed at database management, API development, and delivering user-oriented solutions.
 - Passionate about solving complex problems and contributing to impactful projects.
 - Aspiring to contribute to innovative projects in tech-driven environments while growing my developing expertise.
@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 - **Frameworks**:
@@ -51,6 +52,10 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
  <p align="left">
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+</p>
+<p align="left">
+  <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
 - **Tools**:

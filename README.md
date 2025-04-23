@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 - 📫 How to reach me: perez_st@icloud.com or on +27694369805.
 
 ## Profile
-- Enthusiastic and results-driven Full-Stack Developer with 1 year of professional experience designing, developing, and deploying web applications.
-- Proficient in Java, C++, JavaScript, HTML, CSS, SQL, and frameworks like Angular, Spring and Django.
+- Enthusiastic and results-driven Full-Stack Developer with over a year of professional experience designing, developing, testing and deploying web applications.
+- Proficient in Java, C++, Python, JavaScript, HTML, CSS, SQL, and frameworks like Angular, Spring and Django.
 - Well versed at database management, API development, and delivering user-oriented solutions.
 - Passionate about solving complex problems and contributing to impactful projects.
 - Aspiring to contribute to innovative projects in tech-driven environments while growing my developing expertise.

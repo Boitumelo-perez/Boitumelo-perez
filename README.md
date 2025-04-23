@@ -107,7 +107,7 @@ I love contributing to open source projects. Here are a few repositories I've co
 
 - [LinkedIn](www.linkedin.com/in/boitumelo-sinwamadi-4546a6285)
 <!-- [Twitter](your-twitter-profile) -->
-- [Personal Website](your-website)
+- [Personal Website](https://boitumelo-perez.github.io/Portfolio/)
 
 Thanks for visiting my profile! Feel free to reach out or just to connect, hope you're inspired.
 

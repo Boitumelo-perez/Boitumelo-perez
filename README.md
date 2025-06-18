@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </p>
 
-## Projects
+<!--## Projects -->
 <!--
 Here are a few projects I've worked on:
 

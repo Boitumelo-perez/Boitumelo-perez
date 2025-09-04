@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 ## About Me
 
-- ⌨ I'm currently looking for work opprtunities within the fields of Computer Science, with more prefrences for Software Developer.
-- 🌱 I’m currently learning about Cloud Computing and Python in AI.
+- ⌨ I'm currently  an BC ERP Consultant/Developer.
+- 🌱 I’m currently learning about security and compliance capabilities Fundamentals.
 - 🎓 BSc Computer Science graduate, Univen Alumni.
-- 👯 I’m interested in collaborating on projects of familiar frameworks or any if preferable hmu.
-- 📫 How to reach me: perez_st@icloud.com or on +27694369805.
+- 👯 I’m interested in collaborating on projects of familiar frameworks or any.
+- 📫 How to reach me: perez_st@icloud.com.
 
 ## Profile
 - Enthusiastic and results-driven Full-Stack Developer with over a year of professional experience designing, developing, testing and deploying web applications.

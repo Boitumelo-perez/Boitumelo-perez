@@ -19,13 +19,13 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 
 - ⌨ I'm currently  an BC ERP Consultant/Developer.
 - 🌱 I’m currently learning about security and compliance capabilities Fundamentals.
-- 🎓 BSc Computer Science graduate, Univen Alumni.
+- 🎓 BSc Computer Science graduate, University of Venda Alumni.
 - 👯 I’m interested in collaborating on projects of familiar frameworks or any.
-- 📫 How to reach me: perez_st@icloud.com.
+- 📫 Reach out to me on LinkedIn
 
 ## Profile
-- Enthusiastic and results-driven Full-Stack Developer with over a year of professional experience designing, developing, testing and deploying web applications.
-- Proficient in Java, C++, Python, JavaScript, HTML, CSS, SQL, and frameworks like Angular, Spring and Django.
+- Enthusiastic and results-driven Full-Stack Developer with over 3 years of professional experience designing, developing, testing and deploying web applications.
+- Proficient in Java, C++, Python, AL, JavaScript, HTML, CSS, SQL, and frameworks like Angular, Spring and Django.
 - Well versed at database management, API development, and delivering user-oriented solutions.
 - Passionate about solving complex problems and contributing to impactful projects.
 - Aspiring to contribute to innovative projects in tech-driven environments while growing my developing expertise.
@@ -105,9 +105,9 @@ I love contributing to open source projects. Here are a few repositories I've co
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/boitumelo-sinwamadi-4546a6285)
+- [LinkedIn](https://www.linkedin.com/in/boitumelo-sinwamadi/)
 <!-- [Twitter](your-twitter-profile) -->
-- [Personal Website](https://boitumelo-perez.github.io/Portfolio/)
+<!-- - [Personal Website](https://boitumelo-perez.github.io/Portfolio/)
 
 Thanks for visiting my profile! Feel free to reach out or just to connect, hope you're inspired.
 

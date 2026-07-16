@@ -107,6 +107,9 @@ I love contributing to open source projects. Here are a few repositories I've co
     alt="Top Languages"
   />
 </a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boitumelo-perez&theme=holi)
+ 
 </p>
  
 

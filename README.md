@@ -97,9 +97,16 @@ I love contributing to open source projects. Here are a few repositories I've co
  <a href="https://github.com/Boitumelo-perez">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boitumelo-perez&theme=radical"/>
  </a>
+<!--
  <a href="https://github.com/Boitumelo-perez">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical" alt="Top Languages"/>
- </a>
+ </a> -->
+ <a href="https://github.com/Boitumelo-perez">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</a>
 </p>
  
 

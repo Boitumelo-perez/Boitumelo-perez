@@ -95,10 +95,10 @@ I love contributing to open source projects. Here are a few repositories I've co
 # GitHub Statistics
 <p align="center">
   <a href="https://github.com/Boitumelo-perez">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boitumelo-perez&theme=radical" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boitumelo-perez&theme=radical" height="49%" />
   </a>
 <a href="https://github.com/Boitumelo-perez">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boitumelo-perez&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boitumelo-perez&theme=radical" height="49%" />
 </a>
 </p>
  

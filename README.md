@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 - 🌱 I’m currently learning about security and compliance capabilities Fundamentals.
 - 🎓 BSc Computer Science graduate, University of Venda Alumni.
 - 👯 I’m interested in collaborating on projects of familiar frameworks or any.
-- 📫 Reach out to me on LinkedIn
+- 📫 Reach out to me on LinkedIn.
 
 ## Profile
 - Enthusiastic and results-driven Full-Stack Developer with over 3 years of professional experience designing, developing, testing and deploying web applications.
@@ -102,7 +102,6 @@ I love contributing to open source projects. Here are a few repositories I've co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boitumelo-perez&layout=compact&theme=radical" alt="Top Languages"/>
  </a> -->
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boitumelo-perez&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boitumelo-perez&theme=radical)
  
 </p>

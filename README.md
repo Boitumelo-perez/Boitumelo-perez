@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
  <a href="https://linkedin.com/in/boitumelo-sinwamadi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://github.com/Boitumelo-perez" target="_blank">
+ <!-- <a href="https://github.com/Boitumelo-perez" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
- </a>
+ </a> -->
  <a href="https://boitumelo-perez.site.je" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
  </a>

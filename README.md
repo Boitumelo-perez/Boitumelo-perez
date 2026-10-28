@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
 </p>
 <p align="left">
   <img align="left" alt="Quasar" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" />
-  <img src="https://img.shields.io/badge/Quasar-092E20?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
 </p>
 
 - **Tools**:

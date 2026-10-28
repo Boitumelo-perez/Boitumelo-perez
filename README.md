@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a FullStack Developer, passionate about bring 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 <p align="left">
-  <img align="left" alt="Quasar" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar.svg" />
+  <img align="left" alt="Quasar" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" />
   <img src="https://img.shields.io/badge/Quasar-092E20?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
 </p>
 
